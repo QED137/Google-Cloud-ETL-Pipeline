@@ -13,7 +13,7 @@ __pycache__/
 
 # Ignore environment variables file if used
 .env
-.history/
+
 # Ignore virtual environment folders
 venv/
 .venv/
@@ -21,3 +21,4 @@ venv/
 # Ignore logs
 *.log
 logs/
+.history/
