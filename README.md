@@ -20,7 +20,7 @@ This project demonstrates how to build an ETL (Extract, Transform, Load) pipelin
 ## How to Run Locally
   1. Clone the repository and navigate to the project directory:
      ```bash
-     git clone https://github.com/your-repository.git
+     git clone https://github.com/QED137/Google-Cloud-ETL-Pipeline.git
      cd your-repository
      ```
   2.  Install the required dependencies:
