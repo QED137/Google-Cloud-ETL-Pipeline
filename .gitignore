@@ -1,5 +1,6 @@
 # Ignore sensitive configuration and key files
 config/config.ini
+config/keys.py
 function-source/keys.py
 cloudmain.py
 
