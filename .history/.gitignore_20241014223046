@@ -1,0 +1,21 @@
+# Ignore sensitive configuration and key files
+config/config.ini
+function-source/keys.py
+cloudmain.py
+
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore environment variables file if used
+.env
+
+# Ignore virtual environment folders
+venv/
+.venv/
+
+# Ignore logs
+*.log
+logs/

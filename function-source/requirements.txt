@@ -1,0 +1,8 @@
+functions-framework==3.*
+pandas
+SQLAlchemy
+pytz
+requests
+pymysql
+lat_lon_parser
+beautifulsoup4
